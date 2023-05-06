@@ -24,6 +24,6 @@ grande absorção desse desafio. Estou muito feliz com o resultado, e esse foi m
   <br>
   
   <div align ="center">
-  <img src = "https://github.com/mateusrodrigues15/desafio-css-dev-club/blob/main/Wide-Coverage-PC.png?raw=true" height = 300px alt = "img-for-pc"/>
-  <img src = "https://github.com/mateusrodrigues15/desafio-css-dev-club/blob/main/Wide-Coverage-Mobile.png?raw=true" height = 400px alt = "img-for-mob"/>
+  <img src = "https://github.com/mateusrodrigues15/Wide-Coverage-challenge/blob/master/Wide-Coverage-PC.png?raw=true" height = 300px alt = "img-for-pc"/>
+  <img src = "https://github.com/mateusrodrigues15/Wide-Coverage-challenge/blob/master/Wide-Coverage-Mobile.png?raw=true" height = 400px alt = "img-for-mob"/>
   </div>
